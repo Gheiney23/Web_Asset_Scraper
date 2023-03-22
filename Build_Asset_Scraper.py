@@ -16,7 +16,7 @@ sku_list = [
 ]
 
 # Url to use
-url_path = 'https://www.build.com/'
+url_path = 'url_here'
 
 
 # Setting up the webdriver for Selenium
